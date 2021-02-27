@@ -1,2 +1,2 @@
 Primera linea rama master.
-Nueva línea rama master.
+Segunda línea rama branch1.
